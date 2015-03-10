@@ -15,5 +15,3 @@ Consider time between classes (going between campuses)
 
 Interface/Design
 Webpage or Popup
-
-...
